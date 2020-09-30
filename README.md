@@ -69,7 +69,7 @@ this is a paragraph
 ```
 
 * `title: "some title"` the name of the current step
-* `step: #` Same as menu order smaller steps come sooner.
+* `step: #` Same as menu order smaller steps come sooner. where # mean step number
 * `layout: post` sets the page layout. should always be post for steps.
 
 ## Adding Normal Pages ##
