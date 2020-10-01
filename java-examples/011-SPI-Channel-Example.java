@@ -14,7 +14,7 @@ public class SPITest{
 		}
 		//Instantiate the SPI
 		SPIChannel spi = new SPIChannel(dyio);
-		
+		//New instance of byteList is created named as dataStream
 		ByteList dataStream = new ByteList(new byte[] {33,55,66,77,88,99});
 		
 		int slaveSelectChannelNumber = 3;
