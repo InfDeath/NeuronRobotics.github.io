@@ -17,7 +17,7 @@ http://neuronrobotics.github.io/
 ## Adding A Tutorial ##
 A tutorial consists of a *Folder* in the *Content Directory* with one `index.md` file containing the tutorial info and multiple other `.md` files containg the steps.
 
-Here is an example
+Here is an example ,that will make u understand more precisely:-
 ```
 content/
   my-new-tut/
